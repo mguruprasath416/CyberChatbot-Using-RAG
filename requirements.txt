@@ -1,0 +1,15 @@
+diffusers
+transformers
+accelerate
+torch
+torchvision
+torchaudio
+scipy
+numpy
+safetensors
+matplotlib
+Pillow
+openai
+gradio
+ollama
+streamlit

@@ -1,0 +1,94 @@
+Phishing attacks use fake websites to steal login credentials.
+SOC analysts investigate suspicious network behavior.
+Ransomware encrypts files and demands cryptocurrency payment.
+Threat intelligence identifies malicious domains and IPs.
+Security operations centers monitor threats continuously.
+Multi-factor authentication adds extra account protection.
+Email spoofing impersonates trusted organizations.
+SIEM systems aggregate logs from multiple devices.
+Cyber attackers exploit weak passwords frequently.
+Endpoint detection tools monitor device activities.
+Brute-force attacks repeatedly attempt password guessing.
+Zero-day vulnerabilities are exploited before patches exist.
+Firewalls filter incoming and outgoing traffic.
+VPNs protect communication through encryption.
+Security analysts investigate malware infections.
+Data breaches expose sensitive customer information.
+Privilege escalation increases attacker permissions.
+Botnets are groups of infected systems controlled remotely.
+DDoS attacks flood servers with malicious traffic.
+Digital forensics investigates cybercrime evidence.
+Encryption protects confidential organizational data.
+SQL injection attacks target vulnerable databases.
+Cross-site scripting injects malicious website scripts.
+Social engineering manipulates human psychology.
+Threat hunting proactively searches for hidden attackers.
+Cloud security protects online services and infrastructure.
+Remote access trojans provide unauthorized remote control.
+Attackers distribute malware using malicious attachments.
+Indicators of compromise reveal signs of intrusion.
+Security awareness training reduces phishing risks.
+Patch management fixes software vulnerabilities quickly.
+Dark web marketplaces sell stolen credentials.
+Network traffic analysis detects suspicious communications.
+Malicious insiders abuse organizational access privileges.
+Password managers generate strong secure passwords.
+Antivirus software scans and removes malicious files.
+Cybersecurity frameworks improve defensive strategies.
+Application security prevents software vulnerabilities.
+Identity management controls user access permissions.
+Threat actors target financial organizations frequently.
+Credential stuffing uses leaked passwords automatically.
+Cyber espionage steals sensitive government information.
+Adversaries use command-and-control servers secretly.
+Security logs help analysts investigate incidents.
+Phishing emails often contain urgent fake warnings.
+IoT devices introduce additional security risks.
+Machine learning improves threat detection systems.
+Attackers exploit outdated software vulnerabilities.
+Domain hijacking redirects users to malicious sites.
+Penetration testing identifies security weaknesses proactively.
+Security monitoring detects abnormal system behavior.
+Threat intelligence feeds share attack indicators globally.
+Malware infections spread through infected downloads.
+USB devices can introduce dangerous malware.
+Security teams respond to ransomware incidents rapidly.
+Hackers use keyloggers to steal passwords secretly.
+Browser exploits compromise vulnerable web applications.
+Cryptojacking secretly mines cryptocurrency on victim systems.
+Cybersecurity analysts protect critical infrastructure daily.
+Insider threats can be accidental or intentional.
+Attackers use obfuscation to hide malware code.
+Security automation speeds up incident response workflows.
+Pharming redirects users to fake websites silently.
+Session hijacking steals authenticated user sessions.
+Wireless networks require strong encryption protection.
+Biometric authentication improves identity verification security.
+DNS spoofing redirects users to malicious servers.
+Advanced persistent threats target organizations long term.
+Cyber resilience helps organizations recover from attacks.
+Threat modeling identifies potential attack paths early.
+Data exfiltration secretly transfers stolen information externally.
+Attackers scan networks searching for weak systems.
+Security baselines improve consistent system protection.
+Sandboxing isolates suspicious files safely.
+Hash values verify file integrity and authenticity.
+Cybersecurity audits evaluate organizational defenses regularly.
+Attack surfaces increase with connected technologies.
+Vulnerability assessments identify exploitable weaknesses.
+Secure coding reduces software security flaws.
+Malicious macros spread malware through office documents.
+Packet sniffing captures network communication traffic.
+Rootkits hide malicious activity inside systems.
+Cybersecurity compliance ensures regulatory requirements are followed.
+Attackers use phishing kits for automated campaigns.
+Network segmentation limits attacker lateral movement.
+Secure backups help recover from ransomware attacks.
+Exploit kits automate vulnerability exploitation processes.
+Threat actors constantly evolve attack techniques.
+Public Wi-Fi networks introduce security risks.
+Security incident response minimizes organizational damage.
+Fileless malware operates directly in memory.
+Reconnaissance gathers information before cyber attacks.
+Attack vectors are methods used to compromise systems.
+Security analytics improve threat visibility and detection.
