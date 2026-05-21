@@ -157,12 +157,12 @@ Security Monitoring
 
 🧪 Technologies Used
 Technology	        Purpose
-Python	            Backend
+Python	        Backend
 Streamlit	        Frontend UI
-Ollama	            Local AI runtime
+Ollama	        Local AI runtime
 Embeddings	        Semantic search
-Cosine Similarity	Retrieval ranking
-RAG	                Contextual AI generation
+Cosine Similarity	  Retrieval ranking
+RAG	              Contextual AI generation
 
 
 🧑‍💻 Author
